@@ -1,0 +1,38 @@
+HOUSE PRICE PREDICTION - ML REPORT
+=======================================================
+
+DATASET INFORMATION
+Number of houses: 1702
+Number of columns: 6
+
+FEATURES
+- Area
+- Rooms
+- Bathrooms
+- Garage Cars
+
+TARGET
+- Price
+
+MODEL
+Algorithm: Multiple Linear Regression
+
+MODEL EVALUATION
+MAE: R$ 234,797.55
+MSE: 131,956,811,807.11
+RMSE: R$ 363,258.60
+R²: 0.3779
+
+DATASET STATISTICS
+Average Area: 233.48
+Average Rooms: 3.29
+Average Bathrooms: 2.80
+Average Garage Cars: 2.44
+Average Price: R$ 615,006.61
+
+MOST EXPENSIVE HOUSE
+Address: Atalaia, Aracaju - SE
+Price: R$ 8,400,000.00
+
+CONCLUSION
+A Multiple Linear Regression model was trained to predict house prices using area, rooms, bathrooms, and garage capacity.
